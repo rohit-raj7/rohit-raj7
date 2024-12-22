@@ -33,7 +33,7 @@ I’m looking to collaborate on:
 
 ## 📫 How to Reach Me  
 - 📧 Email: [rohit.raj.career@gmail.com](mailto:rohit.raj.career@gmail.com)  
-- 🌐 Portfolio: [My Portfolio](https://rohit-raj-portfoli.netlify.app/)
+- 🌐 Portfolio: [My Portfolio](https://rohit-raj.netlify.app/)
 - 💼 LinkedIn: [Rohit Raj](https://www.linkedin.com/in/rohit-raj-7)  
 
 ---
