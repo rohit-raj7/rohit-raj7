@@ -3,7 +3,7 @@
 
 ![Banner](https://via.placeholder.com/1000x250?text=Welcome+to+Rohit+Raj's+(https://github.com/rohit-raj7))
 
-https://github.com/user-attachments/assets/0023ec56-4ad7-4387-ae7d-445d28b6255d)
+
 
 ## 👀 About Me  
 I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Government Engineering College, Banka (2022–2026). With a passion for **frontend development**, **problem-solving**. I am eager to learn, build, and collaborate on innovative projects.
