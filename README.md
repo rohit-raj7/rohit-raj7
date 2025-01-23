@@ -21,8 +21,10 @@ I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Governme
 
   <!-- Frameworks and Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/><img 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/>
+
+                                                                     
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
@@ -33,11 +35,11 @@ I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Governme
 
   <!-- Concepts -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Data Structures & Algorithms" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" alt="API" width="45" height="45"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-api-cloud-computing-flat-flat-juicy-fish.png" alt="API" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/artificialintelligence/artificialintelligence-original.svg" alt="Artificial Intelligence" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="OOPS Concept" width="45" height="45"/>
 </p>
----
+
 
 ## 🌟 Interests  
 - **Frontend Development**: Crafting intuitive, responsive, and visually appealing web interfaces.  
