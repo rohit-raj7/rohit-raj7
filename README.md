@@ -34,9 +34,7 @@ I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Governme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 
   <!-- Concepts -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Data Structures & Algorithms" width="45" height="45"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-api-cloud-computing-flat-flat-juicy-fish.png" alt="API" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/artificialintelligence/artificialintelligence-original.svg" alt="Artificial Intelligence" width="45" height="45"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="OOPS Concept" width="45" height="45"/>
 </p>
 
