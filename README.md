@@ -21,7 +21,7 @@ I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Governme
 
   <!-- Frameworks and Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/><img 
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://www.google.com/imgres?q=tailwind%20css&imgurl=https%3A%2F%2Fmwop.net%2Fimages%2Ftailwindcss.svg&imgrefurl=https%3A%2F%2Fmwop.net%2Fblog%2F2022-04-26-tailwind.html&docid=b6ptToeiB7OD9M&tbnid=TcshbnDZKXw0AM&vet=12ahUKEwjN4vfv9IqLAxXnRmwGHRmqImwQM3oECG8QAA..i&w=800&h=489&hcb=2&ved=2ahUKEwjN4vfv9IqLAxXnRmwGHRmqImwQM3oECG8QAA)" alt="Node.js" width="45" height="45"/><img 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/>
 
                                                                      
