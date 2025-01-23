@@ -21,7 +21,6 @@ I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Governme
 
   <!-- Frameworks and Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/>
 
                                                                      
 
