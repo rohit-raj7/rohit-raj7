@@ -3,6 +3,9 @@
 
 ![Banner](https://via.placeholder.com/1000x250?text=Welcome+to+Rohit+Raj's+(https://github.com/rohit-raj7))
 
+https://raw.githubusercontent.com/rohit-raj7/rohit-raj7/main/github-user-contribution.gif.svg
+
+
 
 
 ## 👀 About Me  
