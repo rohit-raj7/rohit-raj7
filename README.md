@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rohit Raj! (@rohit-raj7)
+# 👋 Hi there, I'm Rohit Raj! 
 
 ![Banner](https://via.placeholder.com/1000x250?text=Welcome+to+Rohit+Raj's+GitHub)
 
