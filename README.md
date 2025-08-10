@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rohit Raj! 
 
-![Banner](https://raw.githubusercontent.com/rohitraj/portfolio/main/banner.png)
+![Banner](https://github.com/user-attachments/assets/5a3b7c92-ff05-4ebf-a305-9949ab0b05ad)
 <img width="1326" height="480" alt="Screenshot 2025-08-10 200324" src="https://github.com/user-attachments/assets/5a3b7c92-ff05-4ebf-a305-9949ab0b05ad" />
 
 
