@@ -25,6 +25,7 @@ I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Governme
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45"/>
 
 <!-- Databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
@@ -38,14 +39,11 @@ I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Governme
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 
-<!-- Extra Services -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Stripe_logo%2C_revised_2016.svg" alt="Stripe" width="70" height="45"/>
-<img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1599098987/logo/for_white_bg/cloudinary_icon_blue.svg" alt="Cloudinary" width="45" height="45"/>
-
 <!-- Concepts -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="OOPS Concept" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+
 
 </p>
 
