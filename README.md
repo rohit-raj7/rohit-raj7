@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Rohit Raj! 
-
 ![Banner](https://github.com/user-attachments/assets/5a3b7c92-ff05-4ebf-a305-9949ab0b05ad)
  
 
