@@ -6,30 +6,7 @@
 I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Government Engineering College, Banka (2022–2026). With a passion for **frontend development**, **problem-solving**. I am eager to learn, build, and collaborate on innovative projects.
 
 ---
-<style>
-.skills-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 15px;
-  background: #0d1117; /* GitHub dark theme */
-  padding: 20px;
-  border-radius: 12px;
-}
-
-.skills-container img {
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  background: white;
-  border-radius: 8px;
-  padding: 5px;
-}
-
-.skills-container img:hover {
-  transform: scale(1.15);
-  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.3);
-}
-</style>
-
+ 
 <div class="skills-container">
 
   <!-- Programming Languages -->
