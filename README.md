@@ -72,7 +72,7 @@ He/Him
 ---
 
 ## ⚡ Fun Fact  
-- I’ve built a **N Queens Visualizer** using **React** and **JavaScript** that simplifies complex algorithms into visual demos.  
+- I’ve built a ** EdTech platform** using **React**, **Node.js**,**mongoDB**,**Cloudinary** and **Stripe** payment gateway that.  
 - I’m from **Banka, Bihar**, and enjoy learning from challenges both in tech and life.  
 - I believe in the power of technology to **bridge gaps and create opportunities** for everyone.  
 
