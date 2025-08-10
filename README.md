@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Rohit Raj! 
 
-![(https://via.placeholder.com/1000x250?text=Welcome+to+Rohit+Raj's+GitHub](https://via.placeholder.com/1000x250?text=Welcome+to+Rohit+Raj's+GitHub)
+![Banner](https://raw.githubusercontent.com/rohitraj/portfolio/main/banner.png)
+<img width="1326" height="480" alt="Screenshot 2025-08-10 200324" src="https://github.com/user-attachments/assets/5a3b7c92-ff05-4ebf-a305-9949ab0b05ad" />
+
 
 ## 👀 About Me  
 I’m a **B.Tech student in Computer Science and Engineering (IoT)** at Government Engineering College, Banka (2022–2026). With a passion for **frontend development**, **problem-solving**. I am eager to learn, build, and collaborate on innovative projects.
