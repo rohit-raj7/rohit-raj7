@@ -2,11 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohit-raj7&color=blue&style=flat-square)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohit-raj7&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohit-raj7&label=✨%20Profile%20Views&color=ff69b4&style=plastic)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rohit-raj7&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohit-raj7&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rohit-raj7?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/rohit-raj7?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars" />
+</p>
 
  
 
