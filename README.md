@@ -1,16 +1,11 @@
 ![Banner](https://github.com/user-attachments/assets/5a3b7c92-ff05-4ebf-a305-9949ab0b05ad)   
  
-<div align="center">
 
-## 🌟 GitHub Stats & Profile Highlights  
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rohit-raj7&label=👀%20Profile%20Views&color=blue&style=for-the-badge&labelColor=black" alt="Profile views" height="35"/>
-  <img src="https://img.shields.io/github/followers/rohit-raj7?label=Followers&style=for-the-badge&logo=github&color=blue&labelColor=black" alt="GitHub Followers" height="35"/>
-  <img src="https://img.shields.io/github/stars/rohit-raj7?label=Stars&style=for-the-badge&logo=github&color=blue&labelColor=black" alt="GitHub Stars" height="35"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rohit-raj7&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rohit-raj7?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/rohit-raj7?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars" />
 </p>
-
-</div>
 
 
  
