@@ -1,6 +1,13 @@
 ![Banner](https://github.com/user-attachments/assets/5a3b7c92-ff05-4ebf-a305-9949ab0b05ad)   
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohit-raj7&color=blue&style=flat-square)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohit-raj7&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohit-raj7&label=✨%20Profile%20Views&color=ff69b4&style=plastic)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohit-raj7&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge)
+
  
 
 ## 👀 About Me  
